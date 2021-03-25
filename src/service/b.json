@@ -1,0 +1,380 @@
+[
+  {
+    "id": "1",
+    "name": "热门分类",
+    "items": [
+      {
+        "id": "1",
+        "name": "空调",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/117080/5/10502/18158/5ef0103eE416ae569/898a7ac882ba6c63.jpg"
+      },
+      {
+        "id": "2",
+        "name": "冰箱",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t1/119891/13/5448/24096/5ef01048E096cfd33/260803efca5e8a73.jpg"
+      },
+      {
+        "id": "3",
+        "name": "电脑",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t1/131424/31/274/19042/5ecb3bc2E96ef8448/0188085e6fd6cd12.png"
+      },
+      {
+        "id": "4",
+        "name": "手机",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png"
+      },
+      {
+        "id": "5",
+        "name": "全面屏手机",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t1/86638/37/11918/19572/5e3e4307E7606f742/0210ac72c0d9275e.jpg"
+      },
+      {
+        "id": "6",
+        "name": "游戏手机",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t1/102972/19/11837/14987/5e3d8bdaEc8ffe21e/6119d3f773fcdacd.jpg"
+      },
+      {
+        "id": "7",
+        "name": "保健品",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/134182/23/366/16758/5eccb3caE2b8d0c6d/7ab40f9d9441a2a5.jpg"
+      },
+      {
+        "id": "8",
+        "name": "口罩",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t1/114862/21/8081/13361/5ecb398fEc7c98869/4b4101d0acbf4ced.jpg"
+      },
+      {
+        "id": "9",
+        "name": "驱蚊用品",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t1/136893/38/305/31308/5ecb84dcE410bc59a/36568e70a84f8807.jpg"
+      },
+      {
+        "id": "10",
+        "name": "电磁炉",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t1/120301/21/3027/11815/5ecb80a8Ed94ec15d/c20f3541c5618e17.jpg"
+      },
+      {
+        "id": "11",
+        "name": "电热水壶",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t1/111738/8/8168/9785/5ecb40ccE19924aec/1a1a91827d0f07ba.jpg"
+      },
+      {
+        "id": "12",
+        "name": "数据线",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/113143/20/8135/9835/5ecb81ccE22407538/e9a80b7af28e83a6.jpg"
+      },
+      {
+        "id": "13",
+        "name": "图书",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t1/131006/3/360/19831/5eccb047E2e95a92e/b425dc4923a20c15.jpg"
+      },
+      {
+        "id": "14",
+        "name": "美妆护肤",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t1/116006/32/8107/3290/5ecb3fb1Eaf924484/552f5b1d08d42fee.jpg"
+      },
+      {
+        "id": "15",
+        "name": "除菌液",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t1/104017/10/11956/27906/5e3e8936E54437217/e5905d3b63d5f6fb.jpg"
+      },
+      {
+        "id": "16",
+        "name": "休闲零食",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t1/129461/33/2827/16392/5ecb3dd2E2d178436/c4cd36d661e91665.jpg"
+      },
+      {
+        "id": "17",
+        "name": "充电宝",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t1/106781/8/11928/23561/5e3e833fE92c281f5/72b834ead18b6462.jpg"
+      },
+      {
+        "id": "18",
+        "name": "体温计",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/97873/26/11984/16170/5e3e878eE3d6f29d8/820c61d6be7faf12.jpg"
+      },
+      {
+        "id": "19",
+        "name": "投影机",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/97873/26/11984/16170/5e3e878eE3d6f29d8/820c61d6be7faf12.jpg"
+      },
+      {
+        "id": "20",
+        "name": "游戏机",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t1/96008/21/11832/14563/5e3e883fE941b27f7/e073dd6dd02ecd02.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "热门品牌",
+    "items": [
+      {
+        "id": "1",
+        "name": "小米",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png"
+      },
+      {
+        "id": "2",
+        "name": "华为",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t11929/135/2372293765/1396/e103ec31/5a1692e2Nbea6e136.jpg"
+      },
+      {
+        "id": "3",
+        "name": "荣耀",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t12178/348/911080073/4732/db0ad9c7/5a1692e2N6df7c609.jpg"
+      },
+      {
+        "id": "4",
+        "name": "iPhone",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t13759/194/897734755/2493/1305d4c4/5a1692ebN8ae73077.jpg"
+      },
+      {
+        "id": "5",
+        "name": "vivo",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t11014/359/2341377211/2777/1755c29c/5a169244Nff0179e0.png"
+      },
+      {
+        "id": "6",
+        "name": "OPPO",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t13036/273/932026474/2570/a3517c7d/5a169254N4bbbd9fb.png"
+      },
+      {
+        "id": "7",
+        "name": "魅族",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t12820/326/909017718/7138/68cde747/5a169243N40eca33c.jpg"
+      },
+      {
+        "id": "8",
+        "name": "三星",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t11509/131/2348573811/3425/4f20fe6/5a16925aN8a6dfd03.png"
+      },
+      {
+        "id": "9",
+        "name": "一加",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t11209/71/2351231464/4158/fc0c415c/5a16923fNfc14307e.jpg"
+      },
+      {
+        "id": "10",
+        "name": "努比亚",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/108301/34/7712/3254/5e5f0de9E4ca2f4b5/c664966ee1d36d47.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "热卖分类",
+    "items": [
+      {
+        "id": "1",
+        "name": "轻薄本",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t11071/195/2462134264/9117/cd0688bf/5a17ba79N18b9f3d4.png"
+      },
+      {
+        "id": "2",
+        "name": "游戏本",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t11155/36/2330310765/10690/eb6754c3/5a17ba96N49561fea.png"
+      },
+      {
+        "id": "3",
+        "name": "机械键盘",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t12304/245/965858782/6481/37cb5a9b/5a17ba5aN0406a1b5.jpg"
+      },
+      {
+        "id": "4",
+        "name": "组装电脑",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t14101/325/978287093/8836/e142aa53/5a17ba73N07b12f0c.jpg"
+      },
+      {
+        "id": "5",
+        "name": "移动硬盘",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t13228/333/989759736/4764/2a312c2e/5a17ba7fN0740c051.jpg"
+      },
+      {
+        "id": "6",
+        "name": "显卡",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t12679/262/982342141/7023/d05a11e5/5a17ba57Nf179b4e4.jpg"
+      },
+      {
+        "id": "7",
+        "name": "游戏台式机",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t12865/295/960489437/5723/4f38f11/5a17ba8bN911b7264.jpg"
+      },
+      {
+        "id": "8",
+        "name": "家用打印机",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t12526/166/988611883/3419/3c7507ac/5a17ba5dN8f6ffa5e.jpg"
+      },
+      {
+        "id": "9",
+        "name": "吃鸡装备",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t1/98581/29/13884/5125/5e5f1d66E8357cf2e/7232090502f87411.jpg"
+      },
+      {
+        "id": "10",
+        "name": "曲屏显示器",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t13798/322/988648789/3644/1adc5615/5a17ba6dNafc95373.jpg"
+      },
+      {
+        "id": "11",
+        "name": "投影机",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t13492/261/938265048/5840/b5e4bdb6/5a17ba61N61a74bc3.jpg"
+      },
+      {
+        "id": "12",
+        "name": "日本文具",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/97514/11/13831/2863/5e5f1d77Ee5ab96e7/70294c751c6ce6f5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "厨房小电",
+    "items": [
+      {
+        "id": "1",
+        "name": "电压力锅",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t13069/193/944900508/2525/d7c9efc/5a17f21dN905aaf4c.jpg"
+      },
+      {
+        "id": "2",
+        "name": "游戏本",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t11155/36/2330310765/10690/eb6754c3/5a17ba96N49561fea.png"
+      },
+      {
+        "id": "3",
+        "name": "机械键盘",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t12304/245/965858782/6481/37cb5a9b/5a17ba5aN0406a1b5.jpg"
+      },
+      {
+        "id": "4",
+        "name": "组装电脑",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t14101/325/978287093/8836/e142aa53/5a17ba73N07b12f0c.jpg"
+      },
+      {
+        "id": "5",
+        "name": "移动硬盘",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t13228/333/989759736/4764/2a312c2e/5a17ba7fN0740c051.jpg"
+      },
+      {
+        "id": "6",
+        "name": "显卡",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t12679/262/982342141/7023/d05a11e5/5a17ba57Nf179b4e4.jpg"
+      },
+      {
+        "id": "7",
+        "name": "游戏台式机",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t12865/295/960489437/5723/4f38f11/5a17ba8bN911b7264.jpg"
+      },
+      {
+        "id": "8",
+        "name": "家用打印机",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t12526/166/988611883/3419/3c7507ac/5a17ba5dN8f6ffa5e.jpg"
+      },
+      {
+        "id": "9",
+        "name": "吃鸡装备",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t1/98581/29/13884/5125/5e5f1d66E8357cf2e/7232090502f87411.jpg"
+      },
+      {
+        "id": "10",
+        "name": "曲屏显示器",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t13798/322/988648789/3644/1adc5615/5a17ba6dNafc95373.jpg"
+      },
+      {
+        "id": "11",
+        "name": "投影机",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t13492/261/938265048/5840/b5e4bdb6/5a17ba61N61a74bc3.jpg"
+      },
+      {
+        "id": "12",
+        "name": "日本文具",
+        "image": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/97514/11/13831/2863/5e5f1d77Ee5ab96e7/70294c751c6ce6f5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "当季主推",
+    "items": [
+      {
+        "id": "1",
+        "name": "防晒",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t1/99405/15/13851/8331/5e5f2520E633cbaac/4ff37f307da08084.jpg"
+      },
+      {
+        "id": "2",
+        "name": "控油",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t19291/98/2577005836/12222/7107fb29/5afd3cc9N3add85ae.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "明星品牌",
+    "items": [
+      {
+        "id": "1",
+        "name": "个护馆",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t21343/109/200166835/32189/655b48ef/5b03c73fN69e0c2b7.jpg"
+      },
+      {
+        "id": "2",
+        "name": "清洁馆",
+        "image": "https://img11.360buyimg.com/focus/s140x140_jfs/t22015/174/193799214/56285/64f190df/5b03bf93Na049c54e.jpg"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "奶粉",
+    "items": [
+      {
+        "id": "1",
+        "name": "1段",
+        "image": "https://img14.360buyimg.com/focus/s140x140_jfs/t21226/279/206350103/11804/74908f42/5b0375dbN03ec343e.jpg"
+      },
+      {
+        "id": "2",
+        "name": "2段",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t21541/284/187586366/22907/27d664bf/5b0375f4N546339ae.jpg"
+      },
+      {
+        "id": "3",
+        "name": "3段",
+        "image": "https://img20.360buyimg.com/focus/s140x140_jfs/t17059/241/2662614433/13040/a9b46dc9/5b038a53Nf228e609.jpg"
+      },
+      {
+        "id": "4",
+        "name": "4段",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t20413/80/190837970/8798/d5ade6b3/5b038a60N61005744.jpg"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "进口食品",
+    "items": [
+      {
+        "id": "1",
+        "name": "休闲零食",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t19789/191/2614150696/17735/d2db9aca/5b02411eNb44a03f7.jpg"
+      },
+      {
+        "id": "2",
+        "name": "牛奶",
+        "image": "https://img13.360buyimg.com/focus/s140x140_jfs/t17479/1/2588472716/22795/d676e57a/5b024117N06151eba.jpg"
+      },
+      {
+        "id": "3",
+        "name": "饼干蛋糕",
+        "image": "https://img10.360buyimg.com/focus/s140x140_jfs/t21448/247/189820564/20127/d5cc76fd/5b024112Nbaa67999.jpg"
+      },
+      {
+        "id": "4",
+        "name": "糖果/巧克力",
+        "image": "https://img12.360buyimg.com/focus/s140x140_jfs/t22348/56/187871154/19174/f25673d6/5b02410aNf2cc12a3.jpg"
+      }
+    ]
+  }
+]
